@@ -6,7 +6,7 @@
 
 This challenge entailed analyzing data related to a newly released game: Heroes of Pymoli. Performing the below analyses simulates the preparation of a status report the gaming company would need to help gain insights into how the game can be improved.
 
-The analysese include:
+The analyses include:
 * Total count of players
 * Purchasing Analysis
     * Number of Unique Items, Average Purchase Price, Total Number of Purchases, Total Revenue
