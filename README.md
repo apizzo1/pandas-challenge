@@ -35,5 +35,5 @@ The analyses include:
 
 ### Files Included
 
-* HeroesOfPymoli folder contains the jupyter notebook file with all analyes performed
+* HeroesOfPymoli folder contains the jupyter notebook file with all analyses performed
 * Resources folder - contains the csv where all game data is stored
