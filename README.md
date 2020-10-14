@@ -1,10 +1,29 @@
 # pandas-challenge
 
-Heroes of Pymoli
+## Heroes of Pymoli
 
-Please note: for the Most Popular Items  task, my dataframe shows slightly different data than what is seen in the example answers. The last 3 items in the example answers show items with a purchase count of 9, but there are actually 4 items with a purchase count of 9. My dataframe happens to show Nirvana (the fourth item with a purchase count of 9) while the example answer shows Fiery Glass Crusader.
+### Challenge details
 
-Heroes Of Pymoli Data Analysis
+This challenge entailed analyzing data related to a newly released game: Heroes of Pymoli. Performing the below analyses simulates the preparation of a status report the gaming company would need to help gain insights into how the game can be improved.
+
+The analysese include:
+* Total count of players
+* Purchasing Analysis
+    * Number of Unique Items, Average Purchase Price, Total Number of Purchases, Total Revenue
+* Gender Demographics
+    * Percentage of Male, Female, and Non-disclosed players
+* Purchasing Analysis by Gender
+    * Purchase Count, Average Purchase Price, Total Purchase Value, Average Purchase Total per Person 
+* Age Demographics
+    * Purchase Count, Average Purchase Price, Total Purchase Value, Average Purchase Total per Person 
+* Top Spenders - top 5 spenders identified, along with:
+    * SN, Purchase Count, Average Purchase Price, Total Purchase Value
+* Most Popular Items - top 5 items identified, along with:
+    * Item ID, Item Name, Purchase Count, Item Price, Total Purchase Value
+* Most Profittable Items - top 5 items identified, along with: 
+    * Item ID, Item Name, Purchase Count, Item Price, Total Purchase Value
+
+### Data Analysis and Insights
 
 1. Age range 35-39 shows the highest average purchase price ($3.60) and highest average total purchase per person ($4.76). Meanwhile, although the <10 age demographic does not have a large amount of players, they have the second highest average total purchase per person ($4.54) of all the age ranges.
 
