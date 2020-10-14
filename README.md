@@ -4,7 +4,9 @@
 
 ### Challenge details
 
-This challenge entailed analyzing data related to a newly released game: Heroes of Pymoli. Performing the below analyses simulates the preparation of a status report the gaming company would need to help gain insights into how the game can be improved.
+This challenge entailed analyzing data related to a newly released game: Heroes of Pymoli. Performing the below analyses simulates the preparation of a status report the gaming company would need to help gain insights into how the game can be improved. 
+
+The Python library Pandas was used extensively in this challenge, as dataframes offer an excellent way to view and investigate data.
 
 The analyses include:
 * Total count of players
